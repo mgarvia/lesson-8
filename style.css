@@ -1,0 +1,11 @@
+.hola-mundo {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100vh;
+    text-align: center;
+}
+.carita {
+    transform: rotate(90deg);
+    font-size: 30px;
+}
